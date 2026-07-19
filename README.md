@@ -1,4 +1,5 @@
 # AppleMusicDecrypt GUI Plugin
+# AppleMusicDecrypt 图形化插件
 
 适用于 Windows 的 AppleMusicDecrypt 图形界面增量插件。
 
@@ -21,7 +22,7 @@
 
 插件不提供 AppleMusicDecrypt 核心、第三方解密工具或 wrapper-manager 镜像。
 
-## 安装
+## 使用
 
 1. 从 GitHub Releases 下载 `AppleMusicDecrypt-GUI-Plugin-<版本>-windows-x64.zip`。
 2. 校验 Release 中提供的 `SHA256SUMS.txt`。
